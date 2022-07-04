@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Visualization with Power BI and SQL</b>
-  - [Data Visualization on Hotel Revenue](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Visualization on Hotel Revenue](https://github.com/ramsi123/Data-Visualization-on-Hotel-Revenue)
 
   <h2> 🤳 Connect with me:</h2>
 

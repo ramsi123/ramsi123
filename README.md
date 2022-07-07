@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Cleaning</b>
-  - [Data Cleaning with Power Query]()
+  - [Data Cleaning with Power Query](https://github.com/ramsi123/Data-Cleaning-with-Power-Query)
 
 - <b>Data Visualization with Power BI and SQL</b>
   - [Data Visualization on Hotel Revenue](https://github.com/ramsi123/Data-Visualization-on-Hotel-Revenue)

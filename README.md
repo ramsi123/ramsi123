@@ -6,7 +6,7 @@
   - [Data Cleaning with Power Query](https://github.com/ramsi123/Data-Cleaning-with-Power-Query)
   
 - <b>Data Modeling</b>
-  - [Data Modeling with Power Pivot]()
+  - [Data Modeling with Power Pivot](https://github.com/ramsi123/Data-Modeling-with-Power-Pivot)
 
 - <b>Data Visualization with Power BI and SQL</b>
   - [Data Visualization on Hotel Revenue](https://github.com/ramsi123/Data-Visualization-on-Hotel-Revenue)

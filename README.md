@@ -10,7 +10,7 @@
 
 - <b>Data Visualization</b>
   - [Data Visualization with Excel Dashboard](https://github.com/ramsi123/Data-Visualization-with-Excel-Dashboard)
-  - [Data Visualization on Hotel Revenue with Power BI and SQL](https://github.com/ramsi123/Data-Visualization-on-Hotel-Revenue)
+  - [Data Visualization on Hotel Database with Power BI and SQL](https://github.com/ramsi123/Data-Visualization-on-Hotel-Revenue)
 
   <h2> 🤳 Connect with me:</h2>
 

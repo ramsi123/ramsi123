@@ -4,12 +4,12 @@
 
 - <b>To-Do Application</b>
   - [To-Do Application with Jetpack Compose](https://github.com/ramsi123/ToDoCompose)
-  
-- <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
-  - [Agrisight](https://github.com/ramsi123/Agrisight)
 
 - <b>Github User</b>
   - [Github User with Github API](https://github.com/ramsi123/GithubUser)
+
+- <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
+  - [Agrisight](https://github.com/ramsi123/Agrisight)
 
   <h2> 🤳 Connect with me:</h2>
 

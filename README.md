@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Cleaning</b>
-  - [Data Cleaning with Power Query](https://github.com/ramsi123/Data-Cleaning-with-Power-Query)
+- <b>To-Do Application</b>
+  - [To-Do Application with Jetpack Compose](https://github.com/ramsi123/ToDoCompose)
   
 - <b>Data Modeling</b>
   - [Data Modeling with Power Pivot](https://github.com/ramsi123/Data-Modeling-with-Power-Pivot)

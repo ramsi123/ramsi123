@@ -5,8 +5,8 @@
 - <b>To-Do Application</b>
   - [To-Do Application with Jetpack Compose](https://github.com/ramsi123/ToDoCompose)
   
-- <b>Data Modeling</b>
-  - [Data Modeling with Power Pivot](https://github.com/ramsi123/Data-Modeling-with-Power-Pivot)
+- <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
+  - [Agrisight](https://github.com/ramsi123/Agrisight)
 
 - <b>Data Visualization</b>
   - [Data Visualization with Excel Dashboard](https://github.com/ramsi123/Data-Visualization-with-Excel-Dashboard)

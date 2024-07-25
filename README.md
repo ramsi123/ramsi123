@@ -5,8 +5,8 @@
 - <b>To-Do Application</b>
   - [To-Do Application with Jetpack Compose](https://github.com/ramsi123/ToDoCompose)
 
-- <b>Github User</b>
-  - [Github User with Github API](https://github.com/ramsi123/GithubUser)
+- <b>Github App</b>
+  - [Github App with Github API](https://github.com/ramsi123/SubmissionAndroidDeveloperExpert)
 
 - <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
   - [Agrisight](https://github.com/ramsi123/Agrisight)

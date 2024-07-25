@@ -11,6 +11,9 @@
 - <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
   - [Agrisight](https://github.com/ramsi123/Agrisight)
 
+- <b>E-Commerce App UI</b>
+  - [E-Commerce App UI with Flutter](https://github.com/ramsi123/E-Commerce-App-UI)
+
   <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Dhiya' Ulhaq Ahmad Ramsi | LinkedIn" width="22px" src="https://i.imgur.com/rH9jwbU.png" />][linkedin]

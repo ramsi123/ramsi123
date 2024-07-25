@@ -11,6 +11,9 @@
 - <b>Agrisight (Soil Detector Application with TensorFlow Lite)</b>
   - [Agrisight](https://github.com/ramsi123/Agrisight)
 
+- <b>Gigs & Care</b>
+  - [Gigs & Care](https://github.com/ramsi123/GigsAndCare/tree/master)
+
 - <b>E-Commerce App UI</b>
   - [E-Commerce App UI with Flutter](https://github.com/ramsi123/E-Commerce-App-UI)
 

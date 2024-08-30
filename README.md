@@ -20,6 +20,9 @@
 - <b>E-Commerce App UI</b>
   - [E-Commerce App UI with Flutter](https://github.com/ramsi123/E-Commerce-App-UI)
 
+- <b>Blog App</b>
+  - [Blog App with Flutter](https://github.com/ramsi123/BlogApp)
+
   <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Dhiya' Ulhaq Ahmad Ramsi | LinkedIn" width="22px" src="https://i.imgur.com/rH9jwbU.png" />][linkedin]

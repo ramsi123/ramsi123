@@ -28,6 +28,9 @@
 - <b>Chat App</b>
   - [Chat App with Flutter](https://github.com/ramsi123/ChatApp)
 
+- <b>CMA Stock</b>
+  - [CMA Stock](https://github.com/ramsi123/CMAStock)
+
   <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Dhiya' Ulhaq Ahmad Ramsi | LinkedIn" width="22px" src="https://i.imgur.com/rH9jwbU.png" />][linkedin]
